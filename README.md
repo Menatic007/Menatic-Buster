@@ -24,12 +24,13 @@
   
  - Note:
   
-  <p>Enter the wrong commands could lead to the tool abusing you. So 
+    <p>Enter the wrong commands could lead to the tool abusing you. So 
     make sure you enter the commands and arguements correctly 😂</p>
   
   # [] Adding program into Binaries
   
- - If you want to use the tool just by typing its name in the terminal, 
- - then do the following after finishing the steps of Installation:
+    <p>If you want to use the tool just by typing its name in the terminal, 
+    <p>then do the following after finishing the steps of Installation:
   
-  <code>
+    <code> sudo mv MenaticBuster.py /usr/bin/MenaticBuster</code>
+    <code> sudo chmod +x /usr/bin/MenaticBuster </code>
