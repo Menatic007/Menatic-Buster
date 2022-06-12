@@ -14,11 +14,11 @@
  # [] Usage
  
 - Basic usage:
-- <code> ./MenaticBuster -u <target_url> -w <path/to/wordlist> </code
+- <code> ./MenaticBuster -u <target_url> -w <path/to/wordlist> </code>
  
- <p>To use extensions and more features use the help menu and enter commands the respective command.</p>
+- <p>To use extensions and more features use the help menu and enter commands the respective command.</p>
   
-  Help Menu:
+- <p> Help Menu:</p>
   
 - ./MenaticBuster --help
   
