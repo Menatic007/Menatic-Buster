@@ -14,7 +14,7 @@
 
   - <code>gitclone https://github.com/Menatic007/Menatic-Buster</code>
   - <code>cd Menatic-Buster</code>
-  - <code>pip install requirements.txt</code>
+  - <code>pip install -r requirements.txt</code>
   - <code>sudo chmod +x MenaticBuster</code>
   - <code>sudo ./MenaticBuster</code>
   
