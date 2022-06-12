@@ -22,7 +22,7 @@
 
 - ./MenaticBuster -u <target_url> -w <path/to/wordlist> 
  
-- To use extensions and more features use the help menu and enter commands the respective command.
+- To use extensions and more features use the help menu and enter the respective command.
   
 - Help Menu:
   
