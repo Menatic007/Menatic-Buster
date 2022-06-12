@@ -30,8 +30,8 @@
   
 - Note:
   
- Enter the wrong commands could lead to the tool abusing you. So 
- make sure you enter the commands and arguements correctly 😂
+ Entering the wrong commands could lead to the tool abusing you. So 
+ make sure you enter the arguements correctly 😂
  ``` 
  # [⚒] Adding program into Binaries
   ```
