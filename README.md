@@ -40,4 +40,7 @@
   
   sudo mv MenaticBuster.py /usr/bin/MenaticBuster
   sudo chmod +x /usr/bin/MenaticBuster
+  
+  Now you can run the tool just by typing:
+  MenaticBuster [OPTIONS]
   ```
