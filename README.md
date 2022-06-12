@@ -12,7 +12,7 @@
   - <code>sudo ./MenaticBuster</code>
   
  # [] Usage
- 
+``` 
 - Basic usage:
 - <code> ./MenaticBuster -u <target_url> -w <path/to/wordlist> </code>
  
@@ -26,11 +26,12 @@
   
     <p>Enter the wrong commands could lead to the tool abusing you. So 
     make sure you enter the commands and arguements correctly 😂</p>
-  
+ ``` 
   # [] Adding program into Binaries
-  
-    <p>If you want to use the tool just by typing its name in the terminal, 
-    <p>then do the following after finishing the steps of Installation:
+  ```
+  <p>If you want to use the tool just by typing its name in the terminal, 
+  <p>then do the following after finishing the steps of Installation:</p>
   
     <code> sudo mv MenaticBuster.py /usr/bin/MenaticBuster</code>
     <code> sudo chmod +x /usr/bin/MenaticBuster </code>
+  ```
