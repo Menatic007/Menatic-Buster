@@ -26,7 +26,7 @@
   
 - Help Menu:
   
-  ./MenaticBuster --help
+ ./MenaticBuster --help
   
  - Note:
   
