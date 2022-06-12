@@ -22,4 +22,6 @@
   
   <code>./MenaticBuster --help</code>
   
- <p>[!] Enter the wrong commands could lead to the tool abusing you, so look at make sure you enter the commands and arguements correctly 😂</p>
+ - Note:
+  
+  <p>Enter the wrong commands could lead to the tool abusing you, so look at make sure you enter the commands and arguements correctly 😂</p>
