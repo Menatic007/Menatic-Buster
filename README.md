@@ -2,10 +2,7 @@
 
 <p>A Fast CLI based Multi-Threaded Directory Bruteforcing  Tool written in Python. This tool can come in handy while doing CTF's or Bug Bounty Hunting to discover hidden directories and files by launching an attack against the web server. This is an inital realse of the tool, moving forward alot more upgrades will be added to enhance its speed and performance.</p> 
 
-x-special/nautilus-clipboard
-copy
-file:///var/run/vmblock-fuse/blockdir/ixatkO/Screenshot 2022-06-12 at 21.10.53.png
-
+[![Screenshot-2022-06-12-at-21-10-53.png](https://i.postimg.cc/MGPCwc33/Screenshot-2022-06-12-at-21-10-53.png)](https://postimg.cc/R3tsQ0Bw)
 
 # [❗️] Disclaimer 
 
