@@ -3,4 +3,4 @@ A Fast CLI based Multi-Threaded Directory Bruteforcing  Tool written in Python. 
 # [❗️] Disclaimer 
 The exploits and malware built on this respository are mainly for POC and Educational purposes only. The developer is in no way responsible for any sort of misuse of tools and exploits or spreading of malware from this respository.
 # [✦] Installation
-
+gitclone 
