@@ -24,4 +24,12 @@
   
  - Note:
   
-  <p>Enter the wrong commands could lead to the tool abusing you, so look at make sure you enter the commands and arguements correctly 😂</p>
+  <p>Enter the wrong commands could lead to the tool abusing you. So 
+    make sure you enter the commands and arguements correctly 😂</p>
+  
+  # [] Adding program into Binaries
+  
+ - If you want to use the tool just by typing its name in the terminal, 
+ - then do the following after finishing the steps of Installation:
+  
+  <code>
