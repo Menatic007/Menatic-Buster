@@ -8,7 +8,7 @@
 
 # [✦] Installation
 
-  <h2> Linux </h2>  
+  <h2>On Linux </h2>  
 
   - <code>gitclone https://github.com/Menatic007/Menatic-Buster</code>
   - <code>cd Menatic-Buster</code>
