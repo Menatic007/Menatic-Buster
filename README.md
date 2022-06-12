@@ -14,24 +14,24 @@
  # [] Usage
 ``` 
 - Basic usage:
-- <code> ./MenaticBuster -u <target_url> -w <path/to/wordlist> </code>
+- ./MenaticBuster -u <target_url> -w <path/to/wordlist> 
  
-- <p>To use extensions and more features use the help menu and enter commands the respective command.</p>
+- To use extensions and more features use the help menu and enter commands the respective command.
   
-- <p> Help Menu:</p>
+- Help Menu:
   
-  <code>./MenaticBuster --help</code>
+  ./MenaticBuster --help
   
  - Note:
   
-    <p>Enter the wrong commands could lead to the tool abusing you. So 
-    make sure you enter the commands and arguements correctly 😂</p>
+  Enter the wrong commands could lead to the tool abusing you. So 
+  make sure you enter the commands and arguements correctly 😂
  ``` 
   # [] Adding program into Binaries
   ```
-  <p>If you want to use the tool just by typing its name in the terminal, 
-  <p>then do the following after finishing the steps of Installation:</p>
+  If you want to use the tool just by typing its name in the terminal, 
+  then do the following after finishing the steps of Installation:
   
-    <code> sudo mv MenaticBuster.py /usr/bin/MenaticBuster</code>
-    <code> sudo chmod +x /usr/bin/MenaticBuster </code>
+  sudo mv MenaticBuster.py /usr/bin/MenaticBuster
+  sudo chmod +x /usr/bin/MenaticBuster
   ```
