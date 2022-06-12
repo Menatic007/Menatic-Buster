@@ -1,5 +1,4 @@
-https://img.shields.io/github/pipenv/locked/python-version/Menatic007/Menatic-Buster/main?style=plastic
-
+![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 # [🕸] Menatic Buster 
 
 <p>A Fast CLI based Multi-Threaded Directory Bruteforcing  Tool written in Python. This tool can come in handy while doing CTF's or Bug Bounty Hunting to discover hidden directories and files by launching an attack against the web server. This is an inital realse of the tool, moving forward alot more upgrades will be added to enhance its speed and performance.</p> 
