@@ -126,7 +126,7 @@ def Bruteforcer(passed_arguements, file_extensions=None):
         word_queue = queue.Queue()
     else:
         print("[!WARNING!]IS YOUR DADDY GOING TO ENTER THE PATH TO THE WORDLIST? DONT BE A SCRIPT KIDDIE. USE THE HELP MENU AND USE THE RIGHT OPTION FOR THE TOOL TO WORK")
-        print("\n[!WARNING!]TYPE python3 menaticbuster --help --HELP AND LOOK AT THE GOD DAMN [OPTIONS] MENU, FOOL!!!\n")
+        print("\n[!WARNING!]TYPE python3 menaticbuster --help AND LOOK AT THE GOD DAMN [OPTIONS] MENU, FOOL!!!\n")
         exit(0)
     for each_word in word_list:
         each_word = each_word.rstrip()
