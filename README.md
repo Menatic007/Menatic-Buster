@@ -20,7 +20,7 @@
 
   <h2>Linux </h2>  
 
-  - <code>gitclone https://github.com/Menatic007/Menatic-Buster</code>
+  - <code>git clone https://github.com/Menatic007/Menatic-Buster</code>
   - <code>cd Menatic-Buster</code>
   - <code>pip install -r requirements.txt</code>
   - <code>sudo chmod +x MenaticBuster</code>
