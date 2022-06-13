@@ -1,12 +1,8 @@
 #!/usr/bin/python3
 import argparse
 from argparse import RawTextHelpFormatter
-from ast import Store
-from codecs import ignore_errors
-from email.policy import default
 import logging
 import random
-from tkinter import N
 import requests
 import queue
 import sys
@@ -107,26 +103,26 @@ def save_target_log(hit_url):
     file.write(f'[{timestamp}] : {hit_url}\n')
 
 
-def Bruteforcer(e, file_extensions=None):
+def Bruteforcer(passed_arguements, file_extensions=None):
     try:
-        if e.url != None:
-            url = e.url
-            if not e.url.startswith('http://'):
+        if passed_arguements.url != None:
+            url = passed_arguements.url
+            if not passed_arguements.url.startswith('http://'):
                 url = 'http://' + url
             if not url.endswith('/'):
                 url = url + '/'
             else:
                 url = url
-        elif e.url == None:
+        elif passed_arguements.url == None:
             print(middle_finger)
             print(f"\n{red}[!WARNING!] BRUH! COME ON, ENTER A URL TO BRUTEFORCE, DONT BE A PROPER SKID, OH MY DAYS!!!\n")
 
 
     except:
-        raise ValueError(f"{red}[!] The following {e.url} URL invalid Please Correct it{reset}")
+        raise ValueError(f"{red}[!] The following {passed_arguements.url} URL invalid Please Correct it{reset}")
 
-    if e.bruteforcelist !=None:
-        word_list = e.bruteforcelist
+    if passed_arguements.bruteforcelist !=None:
+        word_list = passed_arguements.bruteforcelist
         word_queue = queue.Queue()
     else:
         print("[!WARNING!]IS YOUR DADDY GOING TO ENTER THE PATH TO THE WORDLIST? DONT BE A SCRIPT KIDDIE. USE THE HELP MENU AND USE THE RIGHT OPTION FOR THE TOOL TO WORK")
