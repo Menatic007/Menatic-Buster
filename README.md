@@ -32,19 +32,19 @@
  
 - Basic usage:
 
-- <code>./MenaticBuster -u <target_url> -w <path/to/wordlist> /<code>
+- ./MenaticBuster -u <target_url> -w <path/to/wordlist> 
  
-- <code>To use extensions and more features use the help menu and enter the respective command.</code>
+- To use extensions and more features use the help menu and enter the respective command.
   
-- <code>Help Menu:</code>
+- Help Menu:
   
-<code>./MenaticBuster --help</code>
-```  
+./MenaticBuster --help
+ 
 - Note:
   
  Entering the wrong commands could lead to the tool abusing you.
  So make sure you enter the arguements correctly 😂
-``` 
+
  # [⚒] Adding program into Binaries
   ```
  If you want to use the tool just by typing its name in the terminal, 
