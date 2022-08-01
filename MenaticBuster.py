@@ -175,7 +175,7 @@ user_arguments = argparse.ArgumentParser(exit_on_error=False)
 user_arguments = argparse.ArgumentParser(
     formatter_class=RawTextHelpFormatter,
     prog='MenaticBuster',
-    description=f'MenaticBuster v1.0 - created by Cyber Menatic | {green} http://pastemyurl {reset}',
+    description=f'MenaticBuster v1.0 - created by Cyber Menatic | {green} https://github.com/Menatic007/Menatic-Buster.git {reset}',
     epilog=f'{white}Menatic Buster is a Fast Directory Busting/Brute-forcing Tool, written in Python..{reset}')
 user_arguments.add_argument('-t', dest='threads', type=int, help='Threads (default = 10)',
                             metavar='THREADS', default=10)
